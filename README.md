@@ -1,16 +1,17 @@
-## Hi there 👋
+## Oi, sou o Rodrigo Borba Souza Junior 👋
 
-<!--
-**junior-C137/junior-C137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Soft Skills
 
-Here are some ideas to get you started:
+Consigo trabalhar em equipe
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou paciente
+
+Tenho inglês basico
+
+### Hard Skills
+
+<div style = "display: inline_block" >
+  <img src="https://github.com/user-attachments/assets/f673aa06-9f69-4e82-8a6d-09a127a4df2b"/>
+  <img src="https://github.com/user-attachments/assets/98676e24-12af-4da7-9050-8a2eda3e46a3"/>
+  <img src="https://github.com/user-attachments/assets/be4827dc-5bc3-45fa-8e70-c0a07af100cf"/>
+</div>
